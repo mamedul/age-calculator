@@ -1,0 +1,38 @@
+{
+	"name": "Age & Duration Calculator",
+	"short_name": "AgeCalc",
+	"description": "A modern PWA to calculate age and duration between two dates.",
+	"version": "2025.08.29",
+	"start_url": "./",
+	"scope": "./",
+	"display": "standalone",
+	"background_color": "#1a202c",
+	"theme_color": "#4a5568",
+	"orientation": "portrait-primary",
+	"categories": [
+		"utilities",
+		"productivity"
+	],
+	"id": "io.github.mamedul.age-calculator",
+	"lang": "en",
+	"dir": "ltr",
+	"related_applications": [],
+	"prefer_related_applications": false,
+	"icons": [
+		{
+			"src": "./icons/age-calculator_192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "./icons/age-calculator_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "./icons/age-calculator_144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	]
+}
