@@ -152,3 +152,90 @@ If you find this extension useful, please consider giving it a star on GitHub! Y
 
 If you found this project helpful, give it a ⭐ on GitHub!
 Don't forget to give the project a star! Thanks again!
+
+---
+
+## Name & Tags:
+
+**Names in different Languages**
+
+1.  **Afrikaans:** Ouderdom- en Duur-sakrekenaar
+2.  **Albanian:** Llogaritësi i Moshës dhe Kohëzgjatjes
+3.  **Amharic:** ዕድሜ እና የቆይታ ጊዜ ማስያ
+4.  **Arabic:** حاسبة العمر والمدة
+5.  **Armenian:** Տարիքի և տևողության հաշվիչ
+6.  **Azerbaijani:** Yaş və Müddət Kalkulyatoru
+7.  **Basque:** Adina eta Iraupen Kalkulagailua
+8.  **Belarusian:** Калькулятар узросту і працягласці
+9.  **Bengali:** বয়স ও সময়কাল ক্যালকুলেটর
+10. **Bosnian:** Kalkulator starosti i trajanja
+11. **Bulgarian:** Калкулатор за възраст и продължителност
+12. **Catalan:** Calculadora d'edat i durada
+13. **Chinese (Simplified):** 年龄和持续时间计算器
+14. **Chinese (Traditional):** 年齡和持續時間計算器
+15. **Croatian:** Kalkulator dobi i trajanja
+16. **Czech:** Kalkulačka věku a doby trvání
+17. **Danish:** Alders- og varighedsberegner
+18. **Dutch:** Leeftijd- & Duurcalculator
+19. **English:** Age & Duration Calculator
+20. **Estonian:** Vanuse ja kestuse kalkulaator
+21. **Filipino (Tagalog):** Calculator ng Edad at Tagal
+22. **Finnish:** Ikä- ja kestolaskuri
+23. **French:** Calculateur d'âge et de durée
+24. **German:** Alters- und Dauer-Rechner
+25. **Greek:** Υπολογιστής Ηλικίας & Διάρκειας
+26. **Gujarati:** ઉંમર અને અવધિ કેલ્ક્યુલેટર
+27. **Haitian Creole:** Kalkilatè Laj ak Dire
+28. **Hausa:** Lissafin Shekaru & Tsawon Lokaci
+29. **Hebrew:** מחשבון גיל ומשך זמן
+30. **Hindi:** आयु और अवधि कैलकुलेटर
+31. **Hungarian:** Kor- és időtartam-kalkulátor
+32. **Icelandic:** Aldurs- og tímalengdarreiknivél
+33. **Igbo:** Ihe mgbako afọ na oge
+34. **Indonesian:** Kalkulator Usia & Durasi
+35. **Italian:** Calcolatore di Età e Durata
+36. **Japanese:** 年齢・期間計算機
+37. **Javanese:** Kalkulator Umur & Durasi
+38. **Kannada:** ವಯಸ್ಸು ಮತ್ತು ಅವಧಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್
+39. **Kazakh:** Жас және ұзақтық калькуляторы
+40. **Khmer:** កម្មវិធីគណនាអាយុ និងរយៈពេល
+41. **Korean:** 나이 및 기간 계산기
+42. **Kurdish (Kurmanji):** Hesibkera Temen û Demê
+43. **Lao:** ເຄື່ອງຄິດໄລ่อາຍຸ ແລະ ໄລຍະເວລາ
+44. **Latvian:** Vecuma un ilguma kalkulators
+45. **Lithuanian:** Amžiaus ir trukmės skaičiuoklė
+46. **Macedonian:** Калкулатор за возраст и времетраење
+47. **Malay:** Kalkulator Umur & Tempoh
+48. **Malayalam:** പ്രായം & ദൈർഘ്യ കാൽക്കുലേറ്റർ
+49. **Maltese:** Kalkulatur tal-Età u t-Tul
+50. **Marathi:** वय आणि कालावधी कॅल्क्युलेटर
+51. **Mongolian:** Нас ба үргэлжлэх хугацааны тооцоолуур
+52. **Myanmar (Burmese):** အသက်နှင့် ကြာချိန် တွက်ချက်စက်
+53. **Nepali:** उमेर र अवधि क्याल्कुलेटर
+54. **Norwegian:** Alders- og varighetskalkulator
+55. **Pashto:** د عمر او مودې محاسبه کوونکی
+56. **Persian (Farsi):** ماشین حساب سن و مدت
+57. **Polish:** Kalkulator wieku i czasu trwania
+58. **Portuguese:** Calculadora de Idade e Duração
+59. **Punjabi:** ਉਮਰ ਅਤੇ ਮਿਆਦ ਕੈਲਕੁਲੇਟਰ
+60. **Romanian:** Calculator de vârstă și durată
+61. **Russian:** Калькулятор возраста и продолжительности
+62. **Serbian:** Калкулатор старости и трајања (Cyrillic) / Kalkulator starosti i trajanja (Latin)
+63. **Slovak:** Kalkulačka veku a trvania
+64. **Slovenian:** Kalkulator starosti in trajanja
+65. **Somali:** Xisaabiyaha Da'da & Muddada
+66. **Spanish:** Calculadora de Edad y Duración
+67. **Swahili:** Kikokotoo cha Umri na Muda
+68. **Swedish:** Ålders- och varaktighetskalkylator
+69. **Tamil:** வயது மற்றும் கால கால்குலேட்டர்
+70. **Telugu:** వయస్సు & వ్యవధి కాలిక్యులేటర్
+71. **Thai:** เครื่องคำนวณอายุและระยะเวลา
+72. **Turkish:** Yaş ve Süre Hesaplayıcı
+73. **Ukrainian:** Калькулятор віку та тривалості
+74. **Urdu:** عمر اور مدت کا کیلکولیٹر
+75. **Uzbek:** Yosh va davomiylik kalkulyatori
+76. **Vietnamese:** Máy tính Tuổi & Khoảng thời gian
+77. **Welsh:** Cyfrifiannell Oedran a Hyd
+78. **Yiddish:** עלטער & געדויער קאַלקולאַטאָר
+79. **Yoruba:** Ẹrọ iṣiro ọjọ ori & Iye akoko
+80. **Zulu:** Isibali Seminyaka Nobude Besikhathi
