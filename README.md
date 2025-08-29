@@ -6,6 +6,8 @@ An advanced, user-friendly, and installable **Age & Duration Calculator** that p
 
 [**➡️ View the Live Application**](https://mamedul.github.io/age-calculator/)
 
+![Age Calculator Screenshot](https://mamedul.github.io/age-calculator/screenshot-age-calculator.png)
+
 _A modern, dark-mode interface that is responsive and easy to navigate._
 
 This tool is perfect for anyone needing a birthday calculator, a date-to-date calculator, or a way to measure the exact time elapsed between two events. Built with modern web technologies, it's fast, reliable, and works offline.
