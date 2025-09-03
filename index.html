@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
+    <!-- PWA Meta Tags -->
+    <meta name="author" content="MAMEDUL ISLAM">
+    <meta name="theme-color" content="#4a5568"/>
+    <link rel="manifest" href="./manifest.json">
+	<link rel="apple-touch-icon" sizes="180x180" href="./icons/age-calculator_180x180.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./age-calculator_32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./age-calculator_16x16.png">
+	<link rel="shortcut icon" type="image/png" href="./icons/age-calculator_32x32.png" />
+
     <!-- SEO Meta Tags -->
     <title>Age & Duration Calculator - Precise Date & Time Difference Tool</title>
     <meta name="description" content="A precise tool to calculate the time difference between two dates. Find your exact age or the total duration between any two moments, down to the second. Features live time tracking, PWA for offline use, and a modern, responsive interface.">
@@ -27,33 +36,27 @@
 
     <!-- JSON-LD for Rich Snippets -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "Age & Duration Calculator",
-      "description": "A precise tool to calculate the time difference between two dates. Find your exact age or the total duration between any two moments, down to the second. Features live time tracking, PWA for offline use, and a modern, responsive interface.",
-      "applicationCategory": "UtilitiesApplication",
-      "operatingSystem": "Web",
-      "url": "https://mamedul.github.io/age-calculator/",
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "USD"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Mamedul Islam",
-        "url": "https://github.com/mamedul"
-      },
-      "image": "https://mamedul.github.io/age-calculator/screenshot-age-calculator.png"
-    }
+        {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Age & Duration Calculator",
+        "description": "A precise tool to calculate the time difference between two dates. Find your exact age or the total duration between any two moments, down to the second. Features live time tracking, PWA for offline use, and a modern, responsive interface.",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Web",
+        "url": "https://mamedul.github.io/age-calculator/",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Mamedul Islam",
+            "url": "https://github.com/mamedul"
+        },
+        "image": "https://mamedul.github.io/age-calculator/screenshot-age-calculator.png"
+        }
     </script>
-    
-    <!-- PWA Manifest -->
-    <link rel="manifest" href="./manifest.json">
-    
-    <!-- Theme Color for browsers -->
-    <meta name="theme-color" content="#4a5568">
 
     <script>
         !function(t,e){"use strict";t=t||"docReady",e=e||window;var n=[],a=!1,o=!1;function c(){if(!a){a=!0;for(var t=0;t<n.length;t++)n[t].fn.call(window,n[t].ctx);n=[]}}function d(){"complete"===document.readyState&&c()}e[t]=function(t,e){if("function"!=typeof t)throw TypeError("callback for docReady(fn) must be a function");if(a){setTimeout(function(){t(e)},1);return}n.push({fn:t,ctx:e}),"complete"!==document.readyState&&(document.attachEvent||"interactive"!==document.readyState)?o||(document.addEventListener?(document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",c,!1)):(document.attachEvent("onreadystatechange",d),window.attachEvent("onload",c)),o=!0):setTimeout(c,1)}}("docReady",window),function(t){let e=t.querySelector?t.querySelector("html"):t.body.parentNode||t.head.parentNode||t.children||t.all[0];e.classList.remove("no-js"),e.classList.add("js"),docReady(function(){setTimeout(function(){e.classList.add("js-loaded")},500)})}(document||window.document);

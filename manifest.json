@@ -2,7 +2,7 @@
 	"name": "Age & Duration Calculator",
 	"short_name": "AgeCalc",
 	"description": "A modern PWA to calculate age and duration between two dates.",
-	"version": "2025.08.29",
+	"version": "2025.09.03",
 	"start_url": "./",
 	"scope": "./",
 	"display": "standalone",
